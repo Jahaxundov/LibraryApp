@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\ConsoleApp.Practice\ConsoleAppPractice\Service\bin\Debug\Service.dll
+C:\Users\ASUS\Desktop\ConsoleApp.Practice\ConsoleAppPractice\Service\bin\Debug\Service.pdb
+C:\Users\ASUS\Desktop\ConsoleApp.Practice\ConsoleAppPractice\Service\bin\Debug\Domain.dll
+C:\Users\ASUS\Desktop\ConsoleApp.Practice\ConsoleAppPractice\Service\bin\Debug\Repository.dll
+C:\Users\ASUS\Desktop\ConsoleApp.Practice\ConsoleAppPractice\Service\bin\Debug\Domain.pdb
+C:\Users\ASUS\Desktop\ConsoleApp.Practice\ConsoleAppPractice\Service\bin\Debug\Repository.pdb
+C:\Users\ASUS\Desktop\ConsoleApp.Practice\ConsoleAppPractice\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ConsoleApp.Practice\ConsoleAppPractice\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ConsoleApp.Practice\ConsoleAppPractice\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\ASUS\Desktop\ConsoleApp.Practice\ConsoleAppPractice\Service\obj\Debug\Service.dll
+C:\Users\ASUS\Desktop\ConsoleApp.Practice\ConsoleAppPractice\Service\obj\Debug\Service.pdb
