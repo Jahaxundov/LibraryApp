@@ -7,3 +7,12 @@ C:\Users\ASUS\Desktop\ConsoleApp.Practice\ConsoleAppPractice\Repository\obj\Debu
 C:\Users\ASUS\Desktop\ConsoleApp.Practice\ConsoleAppPractice\Repository\obj\Debug\Repository.csproj.CopyComplete
 C:\Users\ASUS\Desktop\ConsoleApp.Practice\ConsoleAppPractice\Repository\obj\Debug\Repository.dll
 C:\Users\ASUS\Desktop\ConsoleApp.Practice\ConsoleAppPractice\Repository\obj\Debug\Repository.pdb
+C:\Users\ASUS\Desktop\ConsoleAppPractice\Repository\bin\Debug\Repository.dll
+C:\Users\ASUS\Desktop\ConsoleAppPractice\Repository\bin\Debug\Repository.pdb
+C:\Users\ASUS\Desktop\ConsoleAppPractice\Repository\bin\Debug\Domain.dll
+C:\Users\ASUS\Desktop\ConsoleAppPractice\Repository\bin\Debug\Domain.pdb
+C:\Users\ASUS\Desktop\ConsoleAppPractice\Repository\obj\Debug\Repository.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ConsoleAppPractice\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ConsoleAppPractice\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\ASUS\Desktop\ConsoleAppPractice\Repository\obj\Debug\Repository.dll
+C:\Users\ASUS\Desktop\ConsoleAppPractice\Repository\obj\Debug\Repository.pdb

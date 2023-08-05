@@ -102,6 +102,7 @@ namespace ConsoleAppPractice.Controllers
             if (isCorrected)
             {
                 var result = _libraryService.Delete(id);
+               
                 if (result is null)
                 {
 
@@ -110,10 +111,11 @@ namespace ConsoleAppPractice.Controllers
                 }
                 foreach (var item in result)
                 {
-                    string data = $"{item.Id} - {item.Name} - {item.SeatCount}";
-                    ConsoleColor.Green.WriteConsole(data);
+                    
+                        string data = $"{item.Id} - {item.Name} - {item.SeatCount}";
+                        ConsoleColor.Green.WriteConsole(data);
+                    
                 }
-
 
             }
             else
@@ -123,6 +125,27 @@ namespace ConsoleAppPractice.Controllers
             }
         }
 
+        public void Search()
+        {
+            ConsoleColor.Cyan.WriteConsole("Add library name");
+           Name: string searchText = Console.ReadLine();
+            if (string.IsNullOrWhiteSpace(searchText))
+            {
+                ConsoleColor.Red.WriteConsole("Dont be empty");
+                goto Name;
+            }
+
+            bool isMatch = Regex.IsMatch(searchText, @"\d");
+            if (isMatch)
+            {
+                ConsoleColor.Red.WriteConsole("Dont add digit for name");
+                goto Name;
+            }
+
+            _libraryService.SearchByName(searchText);
+        
+
+        }
 
     }
 }

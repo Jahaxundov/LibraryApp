@@ -14,5 +14,6 @@ namespace Service.Services.Interfaces
 
         Library GetById(int id);
         List<Library> Delete(int id);
+        void SearchByName(string searchText);
     }
 }

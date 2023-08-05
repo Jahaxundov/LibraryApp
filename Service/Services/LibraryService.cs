@@ -30,5 +30,10 @@ namespace Service.Services
             _count++;
             _libraryRepository.Greate(library);
         }
+
+        public void SearchByName(string searchText)
+        {
+            _libraryRepository.SearchByName(searchText);
+        }
     }
 }

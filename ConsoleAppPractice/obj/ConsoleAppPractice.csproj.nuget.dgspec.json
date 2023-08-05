@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Desktop\\ConsoleApp.Practice\\ConsoleAppPractice\\ConsoleAppPractice\\ConsoleAppPractice.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\ConsoleAppPractice\\ConsoleAppPractice\\ConsoleAppPractice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Desktop\\ConsoleApp.Practice\\ConsoleAppPractice\\ConsoleAppPractice\\ConsoleAppPractice.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\ConsoleAppPractice\\ConsoleAppPractice\\ConsoleAppPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\ConsoleApp.Practice\\ConsoleAppPractice\\ConsoleAppPractice\\ConsoleAppPractice.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\ConsoleAppPractice\\ConsoleAppPractice\\ConsoleAppPractice.csproj",
         "projectName": "ConsoleAppPractice",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\ConsoleApp.Practice\\ConsoleAppPractice\\ConsoleAppPractice\\ConsoleAppPractice.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\ConsoleAppPractice\\ConsoleAppPractice\\ConsoleAppPractice.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Desktop\\ConsoleApp.Practice\\ConsoleAppPractice\\ConsoleAppPractice\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\ConsoleAppPractice\\ConsoleAppPractice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ASUS\\Desktop\\ConsoleApp.Practice\\ConsoleAppPractice\\Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\ASUS\\Desktop\\ConsoleApp.Practice\\ConsoleAppPractice\\Service\\Service.csproj"
+              "C:\\Users\\ASUS\\Desktop\\ConsoleAppPractice\\Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Desktop\\ConsoleAppPractice\\Service\\Service.csproj"
               }
             }
           }
@@ -63,11 +63,11 @@
         }
       }
     },
-    "C:\\Users\\ASUS\\Desktop\\ConsoleApp.Practice\\ConsoleAppPractice\\Domain\\Domain.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\ConsoleAppPractice\\Domain\\Domain.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\ConsoleApp.Practice\\ConsoleAppPractice\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\ConsoleAppPractice\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\ConsoleApp.Practice\\ConsoleAppPractice\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\ConsoleAppPractice\\Domain\\Domain.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -78,16 +78,16 @@
         "net472": {}
       }
     },
-    "C:\\Users\\ASUS\\Desktop\\ConsoleApp.Practice\\ConsoleAppPractice\\Repository\\Repository.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\ConsoleAppPractice\\Repository\\Repository.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\ConsoleApp.Practice\\ConsoleAppPractice\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\ConsoleAppPractice\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\ConsoleApp.Practice\\ConsoleAppPractice\\Repository\\Repository.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\ConsoleAppPractice\\Repository\\Repository.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Users\\ASUS\\Desktop\\ConsoleApp.Practice\\ConsoleAppPractice\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\ASUS\\Desktop\\ConsoleApp.Practice\\ConsoleAppPractice\\Domain\\Domain.csproj"
+              "C:\\Users\\ASUS\\Desktop\\ConsoleAppPractice\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Desktop\\ConsoleAppPractice\\Domain\\Domain.csproj"
               }
             }
           }
@@ -97,19 +97,19 @@
         "net472": {}
       }
     },
-    "C:\\Users\\ASUS\\Desktop\\ConsoleApp.Practice\\ConsoleAppPractice\\Service\\Service.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\ConsoleAppPractice\\Service\\Service.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\ConsoleApp.Practice\\ConsoleAppPractice\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\ConsoleAppPractice\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\ConsoleApp.Practice\\ConsoleAppPractice\\Service\\Service.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\ConsoleAppPractice\\Service\\Service.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Users\\ASUS\\Desktop\\ConsoleApp.Practice\\ConsoleAppPractice\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\ASUS\\Desktop\\ConsoleApp.Practice\\ConsoleAppPractice\\Domain\\Domain.csproj"
+              "C:\\Users\\ASUS\\Desktop\\ConsoleAppPractice\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Desktop\\ConsoleAppPractice\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\ASUS\\Desktop\\ConsoleApp.Practice\\ConsoleAppPractice\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\ASUS\\Desktop\\ConsoleApp.Practice\\ConsoleAppPractice\\Repository\\Repository.csproj"
+              "C:\\Users\\ASUS\\Desktop\\ConsoleAppPractice\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Desktop\\ConsoleAppPractice\\Repository\\Repository.csproj"
               }
             }
           }

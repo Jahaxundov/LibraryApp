@@ -15,6 +15,7 @@ namespace Repository.Repositories.Interfaces
         void Edit(T entiry);
         T GetById(int id);
         List<T> GetAll();
-        List<T> GetAllByExpression(Expression<Func<T, bool>> expression); 
+        List<T> GetAllByExpression(Expression<Func<T, bool>> expression);
+        
     }
 }

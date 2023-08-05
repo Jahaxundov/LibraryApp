@@ -34,6 +34,9 @@ while (true)
             case (int)Operations.GetById:
                 libraryController.GetById();
                 break;
+            case (int)Operations.SerachLibrary:
+                libraryController.Search();
+                break;
             default:
                 ConsoleColor.Red.WriteConsole("Please write correct option :");
                 goto Operation;

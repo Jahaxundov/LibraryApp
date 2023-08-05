@@ -1,4 +1,5 @@
 ﻿using Domain.Common;
+using Domain.Models;
 using Repository.Data;
 using Repository.Repositories.Interfaces;
 using System;
@@ -41,5 +42,6 @@ namespace Repository.Repositories
         {
             AppDbContext<T>.datas.Add(entity);
         }
+
     }
 }

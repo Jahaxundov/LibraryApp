@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 
 namespace Repository.Repositories.Interfaces
 {
-    public interface ILibraryRepository:IBaseRepository<Library>
+    public interface ILibraryRepository : IBaseRepository<Library>
     {
+         void SearchByName(string searchText);
     }
 }

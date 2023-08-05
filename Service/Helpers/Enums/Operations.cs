@@ -12,7 +12,8 @@ namespace Service.Helpers.Enums
         DeleteLibrary,
         EditLibrary,
         GetAllLibraries,
-        GetById
+        GetById,
+        SerachLibrary
 
 
     }
